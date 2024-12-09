@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nlpanomalydet",
+  "private_key_id": "21686a781d06e7356d39acfb2822100cd1e12cf9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuqLkChwX2M+O3\noRXu13r7yQNQtQyKFOCZfAZCYfpmc7CtVQTq/50fGXmQl/cfQm4ulviMFyF0Q/ms\nTbn8ZXZVeVZbs506gFK6dfJfd96Le5NBHMtbjuEka9jzhEzgJOh6FHXrzNC6Y/C0\nDOtiNs9MBWwSFxbw/nMLtuEE9cpGWJr478qsyZbYjSgKnrnMii4l48OKAXYuD10H\nQYOQZjgHtiRU1pzBWvT3nsDxdhOP1ukpwHyz2oflVS2deXFfnsKsZI/GzQsHSWQT\n1b1TqhmPdpOoMEJrE1bPHvjIZAdIFzu9IRXktmBTiKjqo+LeUSFDtRrTBOJOQc43\nbuzHKIvpAgMBAAECggEAais3xpaPgeO6iU2JZsuII+tb5LLuBZ1c/xqL5EsW7C3K\nKom4Wtxkptmb2UWpQ0g3oNU7c4K0uLamos6fDteKKWMFllzUdJpycw2WSX8XSuCp\n9Nzc4Hmy0ZOCm24/DrWMkAZ7IO9n6YsdINPggLwWQuDknzWTWJkxT8RG3QCEv/69\nzahZIivkSMcZuYh3/JrDk4i4il4tpJ6vcC94+Sii9MnyjgI3XDjY7TByZ21sQH+N\nsJTH02diyM4XW5lcgu/yMdFzsRnMWo+kFLoczIK4fTQhx07qRxmh9Mq8vIp7gWPc\nKcuaVuHxhd1mfwjj4NdyVCIlSmTBpzZutViwfPwOkwKBgQD+CV8TmMJDbX8E3bV3\nclCNyiRm4HuuRzpbSbth6scgzfxMxBnpTHII4CJ+JHSD02s7GtOlaUHZM1UKk+Ot\nxo0Ji0Lb9ji1VgvjWRO16/F0E2oJTTm5AOeYmseEwXvYU4T8JSfCNR8MAtxXwGET\nFfK3nTV3AF1lxPDcCGx/PrWkNwKBgQDwgO0B9NWnOZ/rs5bnYfVzXOiJ9Qtb2Mwl\nfhVakCAErlubmgU7SrmcJYXKq/ToIPHrUh/7MKoyziTkUsDoVq2M8kxFi4FcHMLh\nzW/42ZKyHu1vQh7UxX8V4+dBmKu6J3mMK3DavB1NpvVYBgGLcIySZ+IFT7kmDfQz\nEAOefkWA3wKBgQDdbwHHLTK4X6uGbFOPqL96uKb+XdKxWTkO9bg2Y9XrTGIN8Cm9\n6HrGLckjN1ewyQsBXCL8XkGduFb6f2rIwPeTSCahYYCQ4E5AgBbkTqQLUBjvvrcA\nAj/eD5y2pYj0SejzeNetO2yypZO3keOMJWeKkahW8KR43zAsO9OHHvxqBQKBgCF0\nDYOkJsPoBBKpHGh6+8VcOwxVhYr1ERB2BUpfmdSM3Dk8p1WkA0VxArc6TAqt6nit\nJ72s+z+t5PvNdv/abrGYUnup+Ah0B7eY9+ZJfVpBaw16yQcXoaHN3bEGJ3zxWLri\noAQM/pZ6js37p+NZeHQ09v9+I2bjsgAYTiiRr+FJAoGBAKlUZDE0tfz8YeF8BDbr\nj+3WHRZ/u0ObAu4WjcBXNwm1qyFh/xAOjzI5LbD80270O9Ty9GO40Q5kxpcD10YX\naYqobiY3w+kk1d3Zj8PsveQzOqK60cnoHvfP7VGEHZ7VNSnsmu7eXRvsrtgEUrbZ\nCtP2TqlHaXDyV8gg3eDS6nYG\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlp-project@nlpanomalydet.iam.gserviceaccount.com",
+  "client_id": "102805562131657980582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlp-project%40nlpanomalydet.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
