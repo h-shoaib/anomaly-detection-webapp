@@ -18,7 +18,7 @@ def save_uploaded_file(uploadedfile):
      f.write(uploadedfile.getbuffer())
   return st.success("Saved file :{} in tempDir".format(uploadedfile.name))
 
-credentials = service_account.Credentials.from_service_account_file('nlpanomalydet-21686a781d06.json')
+credentials = service_account.Credentials.from_service_account_file('views/nlpanomalydet-21686a781d06.json')
 project_id = "nlpanomalydet"
 location = "us"  # Choose your location (e.g., "us" or "eu")
 processor_id = "96ec437057e85de8"  # The ID of your Document AI processor
